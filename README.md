@@ -43,7 +43,7 @@ Include the following files and information:
 •	Resources: list of Web sites, books, forums, blog posts, GitHub repositories etc that you referred to or used in this submission (Add N/A if you did not use such resources).
 
 ## Result
-The results and final submission can be found here [here](https://github.com/KOdoi-OJ/Build-Data-Dashboards/blob/main/Project%204%20-%20Build%20Data%20Dashboards%20final.pdf)
+The results and final submission can be found [here](https://github.com/KOdoi-OJ/Build-Data-Dashboards/blob/main/Project%204%20-%20Build%20Data%20Dashboards%20final.pdf)
 
 
 
