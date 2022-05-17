@@ -1,11 +1,12 @@
-# Project Description - Build Data Dashboards
+# Project Description: Build Data Dashboards
 This is the 4th project in Udacity's Business Analytics Nanodegree
 ## Background
 In this project, create visualizations to reveal insights from a data set. Create data visualizations that tell a story or highlight patterns in the data set. The work should be a reflection of the theory and practice of data visualization, such as visual encodings, design principles, and effective communication.
-There are 3 different data sets you can choose from.
-•	Flight Delays and Cancellations
-•	US Census Demographic Data
-•	Youtube Data from the US
+There are 3 different data sets you can choose from:
+
+- Flight Delays and Cancellations
+- US Census Demographic Data
+- Youtube Data from the US
 
 ***I chose the [US Census Demographic Dataset]( https://video.udacity-data.com/topher/2018/March/5ab3e98c_acs2015-county-data/acs2015-county-data.csv) for this project***
 
@@ -29,18 +30,19 @@ As you work with the data, come up with a question you're curious about and can 
 - Your visualization should be explanatory in nature and communicate specific results that you want to show.
 
 ## Suggestions to Make Your Project Stand Out!
-•	Incorporate more advanced visualization methods using Tableau. These should enhance the reader’s ability to understand the data and interact with the graphic.
-•	Collect and include rich feedback such as screenshots with annotations, audio files, videos of walkthroughs, discussion forum links, or images of sketches with handwritten comments.
-•	Explain the reasoning behind every initial design choice and every change you made. Reflect on the visualization development process.
+
+- Incorporate more advanced visualization methods using Tableau. These should enhance the reader’s ability to understand the data and interact with the graphic.
+- Collect and include rich feedback such as screenshots with annotations, audio files, videos of walkthroughs, discussion forum links, or images of sketches with handwritten comments.
+- Explain the reasoning behind every initial design choice and every change you made. Reflect on the visualization development process.
 
 ## Submission
 Include the following files and information:
-•	A PDF or Markdown report that includes the following sections:
-•	Links to your dashboards or story
-•	You must submit url links for each of your visuals from Tableau Public. If you need a reminder on how to save to Tableau Public, please see the next concept.
-•	Summary: brief description of the visualization and the main story or findings conveyed
-•	Design: explain any design choices you made including changes to the visualization after collecting feedback
-•	Resources: list of Web sites, books, forums, blog posts, GitHub repositories etc that you referred to or used in this submission (Add N/A if you did not use such resources).
+- A PDF or Markdown report that includes the following sections:
+- Links to your dashboards or story
+- You must submit url links for each of your visuals from Tableau Public. If you need a reminder on how to save to Tableau Public, please see the next concept.
+- Summary: brief description of the visualization and the main story or findings conveyed
+- Design: explain any design choices you made including changes to the visualization after collecting feedback
+- Resources: list of Web sites, books, forums, blog posts, GitHub repositories etc that you referred to or used in this submission (Add N/A if you did not use such resources).
 
 ## Result
 The results and final submission can be found [here](https://github.com/KOdoi-OJ/Build-Data-Dashboards/blob/main/Project%204%20-%20Build%20Data%20Dashboards%20final.pdf)
