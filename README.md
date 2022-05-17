@@ -1,4 +1,4 @@
-# Build-Data-Dashboards - Project Description
+# Project Description - Build Data Dashboards
 This is the 4th project in Udacity's Business Analytics Nanodegree
 ## Background
 In this project, create visualizations to reveal insights from a data set. Create data visualizations that tell a story or highlight patterns in the data set. The work should be a reflection of the theory and practice of data visualization, such as visual encodings, design principles, and effective communication.
@@ -47,4 +47,4 @@ The results and final submission can be found [here](https://github.com/KOdoi-OJ
 
 
 
-*This project was completed on December 23, 2021*
+*This project was completed, with final review and approval, on December 23, 2021*
